@@ -1,0 +1,9 @@
+.idea
+venv
+client_secret_2.json
+log_func.py
+mail_bot.py
+main.py
+save_func.py
+secret_user_3.json
+user_secret.json
